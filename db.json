@@ -17,7 +17,11 @@
 		"rcNo": 2,	
 		"sex": "암",
 		"dusu":11,
-		"simRank": 1
+		"simRank": 1,
+		"jkName": "조한별",
+		"jkNo": "080515",
+		"trName": "김동균",
+		"trNo": "070170"
 		},
 		{
 		"purchaseStatus": 1,
@@ -36,7 +40,11 @@
 		"rcNo": 2,	
 		"sex": "암",
 		"dusu":11,
-		"simRank": 2
+		"simRank": 2,
+		"jkName": "조한별",
+		"jkNo": "080515",
+		"trName": "김동균",
+		"trNo": "070170"
 		},
 		{
 		"purchaseStatus": 1,
@@ -54,7 +62,11 @@
 		"rcNo": 2,
 		"sex": "암",
 		"dusu":11,
-		"simRank": 3
+		"simRank": 3,
+		"jkName": "조한별",
+		"jkNo": "080515",
+		"trName": "김동균",
+		"trNo": "070170"
 		},
 		{
 		"purchaseStatus": 1,
@@ -73,7 +85,11 @@
 		"rcNo": 2,	
 		"sex": "암",
 		"dusu":11,
-		"simRank": 4
+		"simRank": 4,
+		"jkName": "조한별",
+		"jkNo": "080515",
+		"trName": "김동균",
+		"trNo": "070170"
 		},
 		{
 		"purchaseStatus": 1,
@@ -92,7 +108,11 @@
 		"rcNo": 2,	
 		"sex": "암",
 		"dusu":11,
-		"simRank": 5
+		"simRank": 5,
+		"jkName": "조한별",
+		"jkNo": "080515",
+		"trName": "김동균",
+		"trNo": "070170"
 		}	
 	 ]	
 }		
