@@ -1,22 +1,23 @@
 {	
-"simRace" : [	
+"simRace" : [		
 	{
 	"purchaseStatus": 1,
 	"age": 3,
 	"ageCond": "연령오픈",
 	"budam": "별정A",
-	"chulNo": 2,
-	"hrName": "투어브라더",		
+	"chulNo": 4,
+	"hrName": "정문사랑",
+	"hrNo": "0038476",
 	"meet": "서울",
 	"rank": "국6등급",
 	"rcDate": 20190519,
 	"rcDay": "일요일",
 	"rcDist": 1000,
 	"rcName": "일반",
-	"rcNo": 2,
+	"rcNo": 2,	
 	"sex": "암",
 	"dusu":11,
-	"simRank": 1,
+	"simRank": 1
 	},
 	{
 	"purchaseStatus": 1,
@@ -35,45 +36,25 @@
 	"rcNo": 2,	
 	"sex": "암",
 	"dusu":11,
-	"simRank": 1,
+	"simRank": 2
 	},
 	{
 	"purchaseStatus": 1,
 	"age": 3,
 	"ageCond": "연령오픈",
 	"budam": "별정A",
-	"chulNo": 4,
-	"hrName": "정문사랑",
-	"hrNo": "0038476",
+	"chulNo": 2,
+	"hrName": "투어브라더",		
 	"meet": "서울",
 	"rank": "국6등급",
 	"rcDate": 20190519,
 	"rcDay": "일요일",
 	"rcDist": 1000,
 	"rcName": "일반",
-	"rcNo": 2,	
+	"rcNo": 2,
 	"sex": "암",
 	"dusu":11,
-	"simRank": 1,
-	},
-	{
-	"purchaseStatus": 1,
-	"age": 3,
-	"ageCond": "연령오픈",
-	"budam": "별정A",
-	"chulNo": 5,
-	"hrName": "정동사랑",
-	"hrNo": "0039611",
-	"meet": "서울",
-	"rank": "국6등급",
-	"rcDate": 20190519,
-	"rcDay": "일요일",
-	"rcDist": 1000,
-	"rcName": "일반",
-	"rcNo": 2,	
-	"sex": "암",
-	"dusu":11,
-	"simRank": 1,
+	"simRank": 3
 	},
 	{
 	"purchaseStatus": 1,
@@ -92,7 +73,26 @@
 	"rcNo": 2,	
 	"sex": "암",
 	"dusu":11,
-	"simRank": 1,
-	}
+	"simRank": 4
+	},
+	{
+	"purchaseStatus": 1,
+	"age": 3,
+	"ageCond": "연령오픈",
+	"budam": "별정A",
+	"chulNo": 5,
+	"hrName": "정동사랑",
+	"hrNo": "0039611",
+	"meet": "서울",
+	"rank": "국6등급",
+	"rcDate": 20190519,
+	"rcDay": "일요일",
+	"rcDist": 1000,
+	"rcName": "일반",
+	"rcNo": 2,	
+	"sex": "암",
+	"dusu":11,
+	"simRank": 5
+	}	
  ]	
 }		
